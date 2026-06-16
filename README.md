@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Sarfaraz Mohammed
 
 [![Email Badge](https://img.shields.io/badge/-infosarfaraz1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:infosarfaraz1@gmail.com)](mailto:infosarfaraz1@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-sarfaraz--mohammed-blue?style=flat&logo=Linkedin&logoColor=white&link=https:/(https://www.linkedin.com/in/sarfarazmohammed97/))]([https://www.linkedin.com/in/sarfaraz-mohammed](https://www.linkedin.com/in/sarfarazmohammed97/))
+[![LinkedIn Badge](https://img.shields.io/badge/-sarfarazmohammedsm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarfarazmohammedsm)](https://www.linkedin.com/in/sarfarazmohammedsm)
 [![GitHub Badge](https://img.shields.io/badge/-SarfarazMohammed0-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SarfarazMohammed0)](https://github.com/SarfarazMohammed0)
 
 Finance and analytics professional with experience in FP&A, business intelligence, and financial reporting across companies like Amazon and Avis Budget Group. I sit at the intersection of financial planning and data — turning raw numbers into decisions that move businesses forward.
