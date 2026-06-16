@@ -1,41 +1,34 @@
-# Hey there! 👋 I'm Sarfaraz Mohammed
+# Hi, I'm Sarfaraz 👋
 
 [![Email Badge](https://img.shields.io/badge/-infosarfaraz1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:infosarfaraz1@gmail.com)](mailto:infosarfaraz1@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-sarfarazmohammed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarfarazmohammedsm)](https://www.linkedin.com/in/sarfarazmohammedsm)
-[![GitHub Badge](https://img.shields.io/badge/-SarfarazMohammed0-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SarfarazMohammed0)](https://github.com/SarfarazMohammed0)
+[![LinkedIn Badge](https://img.shields.io/badge/-sarfarazmohammedsm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarfarazmohammedsm)](https://www.linkedin.com/in/sarfarazmohammedsm)
 
-Finance and analytics professional with experience in FP&A, business intelligence, and financial reporting across companies like Amazon and Avis Budget Group. I sit at the intersection of financial planning and data — turning raw numbers into decisions that move businesses forward.
+I got into finance because I liked finding problems — the number that doesn't add up, the cost that keeps climbing, the unit that's quietly underperforming. Then I realized the real satisfaction wasn't just finding it, it was visualizing it. Turning a messy spreadsheet into a dashboard that makes a CFO go "oh, *that's* what's happening" — that's the part I actually enjoy.
 
-My work spans the full analytical stack: Oracle FCCS for financial close, Power BI and SQL for executive dashboards, Python for modeling, and Excel VBA for automation. I've reduced manual reporting by 4 hours/week at Amazon and eliminated ~10 hours/month of consolidation work at Avis through automation.
+I've done that at Amazon (BI dashboards connected to live SQL pipelines) and Avis Budget Group (FP&A reporting across three business units in Oracle FCCS). I also built a VBA automation at Avis that saved the team 10 hours a month — which sounds small until you realize that's 10 hours of someone's Monday back.
 
-Currently completing an M.S. in Business Analytics at Concordia University Wisconsin (May 2026).
+Currently finishing my M.S. in Business Analytics at Concordia University Wisconsin (May 2026) and open to Financial Analyst, FP&A, Data Analyst, and BI roles across the US.
 
----
-
-💡 **Notable Impacts** 💡
-
-- **Financial Close Automation:** Built Excel VBA/Macro solution eliminating ~10 hrs/month of manual consolidation at Avis Budget Group — adopted into the team's standard workflow.
-- **BI Reporting at Scale:** Designed Power BI dashboards connected to live SQL pipelines at Amazon, delivering real-time executive visibility and saving 4 hrs/week in manual reporting.
-- **FP&A Analytics:** Supported quarterly variance analysis across 3 business units using SQL and Power BI, producing budget-vs-actual forecasting summaries for finance leadership.
+When I'm not looking at numbers I'm on the football pitch — soccer for the Americans reading this. ⚽
 
 ---
 
-🔧 **Skills** 🔧
+🔧 **What I work with**
 
-💰 FP&A & Financial Modeling | 📊 Power BI & Data Visualization | 💾 SQL & MySQL | 🐍 Python | ❄️ Snowflake | 🏦 Oracle FCCS | 🗄️ SAP ERP | ⚙️ Excel VBA/Macros | 📈 Budgeting & Forecasting | 🔍 Variance Analysis | 📋 KPI Development | 🤝 Stakeholder Management
+SQL · Power BI · Oracle FCCS · SAP ERP · Excel VBA · Python · Snowflake · dbt · Airflow · Budgeting & Forecasting · Variance Analysis · FP&A
 
 ---
 
 📂 **Projects**
 
-- [P&L Budget vs Actual Variance Analysis (SQL)](https://github.com/SarfarazMohammed0/PnL-Variance-Analysis-SQL) — FP&A project analyzing budget vs actual variance across a multi-business-unit P&L. Identifies material variances, business unit performance, and accelerating cost trends using SQL.
+- [P&L Budget vs Actual Variance Analysis](https://github.com/Sarfarazmohammedsm/PnL-Variance-Analysis-SQL) — SQL analysis of budget vs actual variance across a 3-unit P&L. The interesting finding: software costs didn't spike once, they climbed every single month from January to December. Classic tool sprawl.
 
 ---
 
 📚 **Currently Learning**
 
-- [Revenue Growth Analytics Pipeline](https://github.com/SarfarazMohammed0/revenue-growth-analytics-pipeline) — End-to-end analytics stack with dbt, Airflow, and Snowflake. Currently working through this to build data engineering depth.
+- [Revenue Growth Analytics Pipeline](https://github.com/Sarfarazmohammedsm/revenue-growth-analytics-pipeline) — Working through an end-to-end stack with dbt, Airflow, and Snowflake to build data engineering depth.
 
 ---
 
-*Open to Financial Analyst, FP&A Analyst, Data Analyst, and BI Analyst roles across the US.*
+*Based in Chicago. Open to remote and on-site roles across the US.*
