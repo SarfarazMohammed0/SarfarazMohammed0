@@ -7,7 +7,7 @@ I got into finance because I liked finding problems — the number that doesn't 
 
 I've done that at Amazon (BI dashboards connected to live SQL pipelines) and Avis Budget Group (FP&A reporting across three business units in Oracle FCCS). I also built a VBA automation at Avis that saved the team 10 hours a month — which sounds small until you realize that's 10 hours of someone's Monday back.
 
-Currently finishing my M.S. in Business Analytics at Concordia University Wisconsin (May 2026) and open to Financial Analyst, FP&A, Data Analyst, and BI roles across the US.
+I hold an M.S. in Business Analytics from Concordia University Wisconsin (2026) and an MBA in Finance from Osmania University. and open to Financial Analyst, FP&A, Data Analyst, and BA roles across the US.
 
 When I'm not looking at numbers I'm on the football pitch — soccer for the Americans reading this. ⚽
 
