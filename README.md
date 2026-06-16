@@ -1,7 +1,7 @@
 # Hi, I'm Sarfaraz 👋
 
 [![Email Badge](https://img.shields.io/badge/-infosarfaraz1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:infosarfaraz1@gmail.com)](mailto:infosarfaraz1@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-sarfarazmohammedsm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarfarazmohammedsm)](https://www.linkedin.com/in/sarfarazmohammedsm)
+[![LinkedIn Badge](https://img.shields.io/badge/-sarfarazmohammed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarfarazmohammedsm)](https://www.linkedin.com/in/sarfarazmohammedsm)
 
 I got into finance because I liked finding problems — the number that doesn't add up, the cost that keeps climbing, the unit that's quietly underperforming. Then I realized the real satisfaction wasn't just finding it, it was visualizing it. Turning a messy spreadsheet into a dashboard that makes a CFO go "oh, *that's* what's happening" — that's the part I actually enjoy.
 
