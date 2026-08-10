@@ -6,7 +6,7 @@
 
 I got into finance because I liked finding problems — the number that doesn't add up, the cost that keeps climbing, the unit that's quietly underperforming. Then I realized the real satisfaction wasn't just finding it, it was visualizing it. Turning a messy spreadsheet into a dashboard that makes a CFO go "oh, *that's* what's happening" — that's the part I actually enjoy.
 
-I've done that at Amazon (BI dashboards connected to live SQL pipelines) and Avis Budget Group (FP&A reporting across three business units in Oracle FCCS). I also built a VBA automation at Avis that saved the team 10 hours a month — which sounds small until you realize that's 10 hours of someone's Monday back.
+I've done that at Amazon (BI dashboards connected to live SQL pipelines) and ZenDesk (FP&A reporting across three business units in Oracle FCCS). I also built a VBA automation at Avis that saved the team 10 hours a month — which sounds small until you realize that's 10 hours of someone's Monday back.
 
 I hold an M.S. in Computer Science from Concordia University Wisconsin (2026) and an MBA in Finance from Osmania University. and open to Financial Analyst, FP&A, Data Analyst, and BA roles across the US.
 
